@@ -1,0 +1,2760 @@
+{
+    "1": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJjbKnx3clv0cR_JuxgeElmpE",
+                "types": [
+                    "street_address"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJcWub_2Qvv0cRsNICARMmIWE",
+                "types": [
+                    "street_address"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.97976209999999,
+                        "lng": 6.974275899999999
+                    },
+                    "southwest": {
+                        "lat": 50.9607529,
+                        "lng": 6.947912499999999
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009)",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "4.2 km",
+                            "value": 4176
+                        },
+                        "duration": {
+                            "text": "15 mins",
+                            "value": 883
+                        },
+                        "end_address": "Boltensternstra\u00dfe 347, 50735 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.97976209999999,
+                            "lng": 6.9702876
+                        },
+                        "start_address": "Zonser Str. 65, 50733 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.9608114,
+                            "lng": 6.947912499999999
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "62 m",
+                                    "value": 62
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 12
+                                },
+                                "end_location": {
+                                    "lat": 50.9609411,
+                                    "lng": 6.948774599999999
+                                },
+                                "html_instructions": "Head <b>east</b> on <b>Werkstattstra\u00dfe</b> toward <b>Zonser Str.</b>",
+                                "polyline": {
+                                    "points": "ah`vHm_li@AIWaD"
+                                },
+                                "start_location": {
+                                    "lat": 50.9608114,
+                                    "lng": 6.947912499999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 138
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 23
+                                },
+                                "end_location": {
+                                    "lat": 50.9621589,
+                                    "lng": 6.9483784
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Merheimer Str.</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "{h`vHydli@eCf@mBd@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9609411,
+                                    "lng": 6.948774599999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "73 m",
+                                    "value": 73
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 12
+                                },
+                                "end_location": {
+                                    "lat": 50.96230389999999,
+                                    "lng": 6.949398899999999
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Wilhelmstra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "op`vHkbli@[kE"
+                                },
+                                "start_location": {
+                                    "lat": 50.9621589,
+                                    "lng": 6.9483784
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 175
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 31
+                                },
+                                "end_location": {
+                                    "lat": 50.9607529,
+                                    "lng": 6.9498169
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Siebachstra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "kq`vHwhli@fDs@lC_@"
+                                },
+                                "start_location": {
+                                    "lat": 50.96230389999999,
+                                    "lng": 6.949398899999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 334
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 81
+                                },
+                                "end_location": {
+                                    "lat": 50.961143,
+                                    "lng": 6.9544865
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Cranachstra\u00dfe</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "ug`vHkkli@IMAECGCI?EAEAeAAw@IgE@[SyD?y@[oF?E?I?EBW"
+                                },
+                                "start_location": {
+                                    "lat": 50.9607529,
+                                    "lng": 6.9498169
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.6 km",
+                                    "value": 650
+                                },
+                                "duration": {
+                                    "text": "3 mins",
+                                    "value": 156
+                                },
+                                "end_location": {
+                                    "lat": 50.9610653,
+                                    "lng": 6.9637407
+                                },
+                                "html_instructions": "Continue onto <b>Kuenstra\u00dfe</b>",
+                                "polyline": {
+                                    "points": "cj`vHqhmi@GuJBcKFwEDyBBq@GmE?Y?]@o@?cAL_F@{@Ie@"
+                                },
+                                "start_location": {
+                                    "lat": 50.961143,
+                                    "lng": 6.9544865
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "1.1 km",
+                                    "value": 1095
+                                },
+                                "duration": {
+                                    "text": "3 mins",
+                                    "value": 184
+                                },
+                                "end_location": {
+                                    "lat": 50.9704942,
+                                    "lng": 6.9654218
+                                },
+                                "html_instructions": "Slight <b>left</b> at <b>Florastra\u00dfe</b>",
+                                "maneuver": "turn-slight-left",
+                                "polyline": {
+                                    "points": "ui`vHkboi@CMACAAiAs@q@[eBeA{AgAa@Ya@Qo@Qe@SO?q@\\SJYLQBq@F_AHE?aAJc@DSBG@I@GBEBEBEDIJIHEBCBE@C?G?I?WGsC_@C?C?A@I@IFA@C?eEQc@A_GUE?E?GAICKAIAOAc@Ai@COAMIGEOOAAC?AAA?Ui@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9610653,
+                                    "lng": 6.9637407
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "70 m",
+                                    "value": 70
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 13
+                                },
+                                "end_location": {
+                                    "lat": 50.97108859999999,
+                                    "lng": 6.965209199999999
+                                },
+                                "html_instructions": "Turn <b>left</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "qdbvH{loi@o@h@A@Q?s@A"
+                                },
+                                "start_location": {
+                                    "lat": 50.9704942,
+                                    "lng": 6.9654218
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 199
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 33
+                                },
+                                "end_location": {
+                                    "lat": 50.9711499,
+                                    "lng": 6.9680488
+                                },
+                                "html_instructions": "Turn <b>right</b> toward <b>Hamborner Str.</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "ihbvHqkoi@Aq@BqCIsDAkAAsB"
+                                },
+                                "start_location": {
+                                    "lat": 50.97108859999999,
+                                    "lng": 6.965209199999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 265
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 46
+                                },
+                                "end_location": {
+                                    "lat": 50.9735314,
+                                    "lng": 6.9681351
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Hamborner Str.</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "uhbvHi}oi@Q@W?m@Ak@Ai@CMCuBAc@AwBAMA"
+                                },
+                                "start_location": {
+                                    "lat": 50.9711499,
+                                    "lng": 6.9680488
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "85 m",
+                                    "value": 85
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 15
+                                },
+                                "end_location": {
+                                    "lat": 50.9742898,
+                                    "lng": 6.9681669
+                                },
+                                "html_instructions": "Continue onto <b>Friedrich-Karl-Stra\u00dfe</b>",
+                                "polyline": {
+                                    "points": "qwbvH{}oi@A?AAC?oCC"
+                                },
+                                "start_location": {
+                                    "lat": 50.9735314,
+                                    "lng": 6.9681351
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.4 km",
+                                    "value": 438
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 140
+                                },
+                                "end_location": {
+                                    "lat": 50.9750778,
+                                    "lng": 6.974275899999999
+                                },
+                                "html_instructions": "Turn <b>right</b> to stay on <b>Friedrich-Karl-Stra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "i|bvHa~oi@?SCq@C]Ck@Ck@AGCq@EaAGkBK{BI{Aq@iIEo@Gk@Ea@E]Ko@E[EW"
+                                },
+                                "start_location": {
+                                    "lat": 50.9742898,
+                                    "lng": 6.9681669
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.6 km",
+                                    "value": 592
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 137
+                                },
+                                "end_location": {
+                                    "lat": 50.97976209999999,
+                                    "lng": 6.9702876
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Boltensternstra\u00dfe</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "gacvHgdqi@a@VkBlAiCdBa@Va@Z}@p@_@Z]\\m@j@_BvAk@h@uGbG"
+                                },
+                                "start_location": {
+                                    "lat": 50.9750778,
+                                    "lng": 6.974275899999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "ah`vHm_li@YkDsFlA[kEfDs@lC_@IMEMCOOkI@[SyD?y@[oF?OB]GuJBcKLqIBq@GmE?w@@sBN{GMs@CEiAs@q@[eBeA{AgAa@Ya@Qo@Qe@SO?q@\\m@XiCTaCV]L_@^UDyDg@E@SHoFQsGWo@ImAEOAMIWUEACAUi@o@h@S@s@AAq@BqCIsDC_Ei@@yACw@GyCCiCEsCCCeAM}B]{I{@eLM{A]kCEWa@VuFrDcAr@}AlAwEjEuGbG"
+                },
+                "summary": "Kuenstra\u00dfe",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    },
+    "2": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJiZ5qgrIlv0cRZ8AAsWbGjPg",
+                "types": [
+                    "street_address"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJpx-bT-gkv0cR8Bm_WvJMoV4",
+                "types": [
+                    "establishment",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.9326985,
+                        "lng": 6.9559358
+                    },
+                    "southwest": {
+                        "lat": 50.9203685,
+                        "lng": 6.915629399999999
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009)",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "3.3 km",
+                            "value": 3274
+                        },
+                        "duration": {
+                            "text": "12 mins",
+                            "value": 693
+                        },
+                        "end_address": "Lindenthalg\u00fcrtel 2, 50935 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.9203685,
+                            "lng": 6.915629399999999
+                        },
+                        "start_address": "Blaubach 6-8, 50676 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.9326985,
+                            "lng": 6.9559358
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "0.4 km",
+                                    "value": 416
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 115
+                                },
+                                "end_location": {
+                                    "lat": 50.9307629,
+                                    "lng": 6.950983099999999
+                                },
+                                "html_instructions": "Head <b>west</b> on <b>Blaubach</b> toward <b>Krummer B\u00fcchel</b>",
+                                "polyline": {
+                                    "points": "kxzuHsqmi@DTDVBPDNFTJXHTPb@PZP`@@@P^Tb@Pb@Td@HRRf@^~@Tj@JVLXJVFN?@FNBHBJBNBLDRBPD^Df@V`D"
+                                },
+                                "start_location": {
+                                    "lat": 50.9326985,
+                                    "lng": 6.9559358
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.7 km",
+                                    "value": 668
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 122
+                                },
+                                "end_location": {
+                                    "lat": 50.9293841,
+                                    "lng": 6.9418802
+                                },
+                                "html_instructions": "Continue onto <b>Rothgerberbach</b>/<wbr/><b>B55</b><div style=\"font-size:0.9em\">Continue to follow B55</div>",
+                                "polyline": {
+                                    "points": "glzuHsrli@BZD`@NzAHr@Fn@Db@Fv@Dd@Bf@Dt@B\\@\\Dx@F`BBl@Br@FhAFl@BXDf@Fb@Hn@F^D\\F\\H`@Hd@Pz@FZBRBP@H?N@\\?L?HANALAXEl@AP?LAL?JAN?H?D?B?D?F@D?BBN?FDV@@@FBJBHDLFLRf@HR"
+                                },
+                                "start_location": {
+                                    "lat": 50.9307629,
+                                    "lng": 6.950983099999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "40 m",
+                                    "value": 40
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 8
+                                },
+                                "end_location": {
+                                    "lat": 50.929123,
+                                    "lng": 6.9415038
+                                },
+                                "html_instructions": "Slight <b>left</b> onto <b>Luxemburger Str.</b>/<wbr/><b>Weyerstra\u00dfe</b>/<wbr/><b>B265</b>/<wbr/><b>B55</b>",
+                                "maneuver": "turn-slight-left",
+                                "polyline": {
+                                    "points": "sczuHwyji@D@@@DFLVVf@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9293841,
+                                    "lng": 6.9418802
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 134
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 41
+                                },
+                                "end_location": {
+                                    "lat": 50.9288303,
+                                    "lng": 6.9396606
+                                },
+                                "html_instructions": "Slight <b>right</b> onto <b>Kyffh\u00e4userstra\u00dfe</b>",
+                                "maneuver": "turn-slight-right",
+                                "polyline": {
+                                    "points": "_bzuHkwji@Hl@Dd@BV\\`F@L@F@F@B"
+                                },
+                                "start_location": {
+                                    "lat": 50.929123,
+                                    "lng": 6.9415038
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "6 m",
+                                    "value": 6
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 1
+                                },
+                                "end_location": {
+                                    "lat": 50.9288615,
+                                    "lng": 6.9395922
+                                },
+                                "html_instructions": "Turn <b>right</b> to stay on <b>Kyffh\u00e4userstra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "e`zuH{kji@EL"
+                                },
+                                "start_location": {
+                                    "lat": 50.9288303,
+                                    "lng": 6.9396606
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 233
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 37
+                                },
+                                "end_location": {
+                                    "lat": 50.9285917,
+                                    "lng": 6.936325
+                                },
+                                "html_instructions": "Turn <b>left</b> to stay on <b>Kyffh\u00e4userstra\u00dfe</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "k`zuHmkji@@B?@@B?D@DJzDTvDHrAFx@Bh@?\\?RGX"
+                                },
+                                "start_location": {
+                                    "lat": 50.9288615,
+                                    "lng": 6.9395922
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 315
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 58
+                                },
+                                "end_location": {
+                                    "lat": 50.92694609999999,
+                                    "lng": 6.932716399999999
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Z\u00fclpicher Str.</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "u~yuH_wii@DFh@z@v@xA^~@Nb@HTHRFNFNBNJd@R~@Jb@Pt@HZH\\J\\JZFRJVDHBH"
+                                },
+                                "start_location": {
+                                    "lat": 50.9285917,
+                                    "lng": 6.936325
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 258
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 44
+                                },
+                                "end_location": {
+                                    "lat": 50.9256435,
+                                    "lng": 6.9297002
+                                },
+                                "html_instructions": "Continue onto <b>Kerpener Str.</b>",
+                                "polyline": {
+                                    "points": "mtyuHo`ii@Nl@Vl@\\p@Vd@HPDHDJDJDPFRFXh@xBRp@J`@@BFVJ`@Tf@"
+                                },
+                                "start_location": {
+                                    "lat": 50.92694609999999,
+                                    "lng": 6.932716399999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "62 m",
+                                    "value": 62
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 65
+                                },
+                                "end_location": {
+                                    "lat": 50.925121,
+                                    "lng": 6.9300275
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Universit\u00e4tsstra\u00dfe</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "glyuHsmhi@~A{@FE"
+                                },
+                                "start_location": {
+                                    "lat": 50.9256435,
+                                    "lng": 6.9297002
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "1.1 km",
+                                    "value": 1142
+                                },
+                                "duration": {
+                                    "text": "3 mins",
+                                    "value": 202
+                                },
+                                "end_location": {
+                                    "lat": 50.9203685,
+                                    "lng": 6.915629399999999
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Z\u00fclpicher Str.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "_iyuHuohi@Vn@LZJZLZJZJ^L`@J\\Jb@XjAXnAThAJf@BRBPBNFVBPh@`CJf@JZHZH\\J\\d@|B\\|A\\rAZlAH\\Nd@J\\J\\Lh@Nj@J\\HZDTFVBNFXFZ`@xATx@Tx@h@nBLd@H^J\\F\\F\\Hb@Hh@PbALn@j@|CRnATtAFVFZF^F^F\\BV"
+                                },
+                                "start_location": {
+                                    "lat": 50.925121,
+                                    "lng": 6.9300275
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "kxzuHsqmi@TnAn@hBv@~AfA`CvBnFRt@RrAf@fGf@bFVzDRvEVxEZtC^|Bf@pCFhACt@MzCDx@Ll@d@lAHRD@FHd@~@NrAd@nGBJCPBPJzDTvDPlCBfA?RGXn@bAv@xA^~@Xx@Pb@j@dCp@rCj@dBHRNl@Vl@t@vANZX|@pAfFHZJ`@Tf@fBaAd@jAp@rB~@nD~@tERjAjA`FxAvGx@`DXbAt@pCb@fBt@~CbBhGd@xBpC|Ob@pC"
+                },
+                "summary": "Z\u00fclpicher Str.",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    },
+    "3": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJg8d6RqMlv0cRsN-pYXSA3i8",
+                "types": [
+                    "doctor",
+                    "establishment",
+                    "health",
+                    "hospital",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJz704bXAlv0cRUCQ1_JKlRxU",
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.95079310000001,
+                        "lng": 6.9597709
+                    },
+                    "southwest": {
+                        "lat": 50.9475802,
+                        "lng": 6.958061799999999
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009), Google",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "0.5 km",
+                            "value": 542
+                        },
+                        "duration": {
+                            "text": "2 mins",
+                            "value": 111
+                        },
+                        "end_address": "Wasserkinetische Brunnenanlage, Ebertpl., 50668 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.9504645,
+                            "lng": 6.958101099999999
+                        },
+                        "start_address": "Turiner Str. 2, 50668 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.9475802,
+                            "lng": 6.958061799999999
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 288
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 47
+                                },
+                                "end_location": {
+                                    "lat": 50.950107,
+                                    "lng": 6.9589269
+                                },
+                                "html_instructions": "Head <b>north</b> on <b>Turiner Str.</b> toward <b>Dagobertstra\u00dfe</b>",
+                                "polyline": {
+                                    "points": "ku}uH{~mi@aASkB_@s@Kk@Mg@Kg@McBo@w@U"
+                                },
+                                "start_location": {
+                                    "lat": 50.9475802,
+                                    "lng": 6.958061799999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 110
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 37
+                                },
+                                "end_location": {
+                                    "lat": 50.9506263,
+                                    "lng": 6.9594922
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Theodor-Heuss-Ring</b>/<wbr/><b>B9</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "ee~uHidni@@]EAAAAC?E?MAO?O?K?GAEACKUGWAAA?A@KRs@`@"
+                                },
+                                "start_location": {
+                                    "lat": 50.950107,
+                                    "lng": 6.9589269
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "90 m",
+                                    "value": 90
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 17
+                                },
+                                "end_location": {
+                                    "lat": 50.950675,
+                                    "lng": 6.958315199999999
+                                },
+                                "html_instructions": "Turn <b>left</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "mh~uHygni@Gb@Q|AEPAH@HDLL\\@T"
+                                },
+                                "start_location": {
+                                    "lat": 50.9506263,
+                                    "lng": 6.9594922
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "34 m",
+                                    "value": 34
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 6
+                                },
+                                "end_location": {
+                                    "lat": 50.9503697,
+                                    "lng": 6.9583274
+                                },
+                                "html_instructions": "Turn <b>left</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "wh~uHo`ni@|@A"
+                                },
+                                "start_location": {
+                                    "lat": 50.950675,
+                                    "lng": 6.958315199999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "20 m",
+                                    "value": 20
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 4
+                                },
+                                "end_location": {
+                                    "lat": 50.9504645,
+                                    "lng": 6.958101099999999
+                                },
+                                "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "yf~uHq`ni@?HQb@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9503697,
+                                    "lng": 6.9583274
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "ku}uH{~mi@mGmAoAY{CeA@]EACEAs@C]Uo@A?MTs@`@Gb@WnB?RRj@@T|@A?HQb@"
+                },
+                "summary": "Turiner Str.",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    },
+    "4": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJXVkrVpUlv0cRUKcYOrly7cs",
+                "types": [
+                    "establishment",
+                    "insurance_agency",
+                    "point_of_interest"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJmUKk6AYlv0cRhM4zcUr-2RQ",
+                "types": [
+                    "premise"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.9501948,
+                        "lng": 6.9569367
+                    },
+                    "southwest": {
+                        "lat": 50.9382562,
+                        "lng": 6.9393588
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009)",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "2.2 km",
+                            "value": 2167
+                        },
+                        "duration": {
+                            "text": "8 mins",
+                            "value": 473
+                        },
+                        "end_address": "Hohenzollernring 30, 50672 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.93827390000001,
+                            "lng": 6.939924700000001
+                        },
+                        "start_address": "Ebertpl. 2, 50668 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.9501948,
+                            "lng": 6.9569367
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 123
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 22
+                                },
+                                "end_location": {
+                                    "lat": 50.9490855,
+                                    "lng": 6.956896500000001
+                                },
+                                "html_instructions": "Head <b>south</b> on <b>Eigelstein</b>",
+                                "polyline": {
+                                    "points": "ue~uH{wmi@^?H@l@@rADZ@RC"
+                                },
+                                "start_location": {
+                                    "lat": 50.9501948,
+                                    "lng": 6.9569367
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "40 m",
+                                    "value": 40
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 8
+                                },
+                                "end_location": {
+                                    "lat": 50.9493239,
+                                    "lng": 6.956468
+                                },
+                                "html_instructions": "Sharp <b>right</b> to stay on <b>Eigelstein</b>",
+                                "maneuver": "turn-sharp-right",
+                                "polyline": {
+                                    "points": "y~}uHswmi@EJWj@EHIR"
+                                },
+                                "start_location": {
+                                    "lat": 50.9490855,
+                                    "lng": 6.956896500000001
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 144
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 24
+                                },
+                                "end_location": {
+                                    "lat": 50.9498493,
+                                    "lng": 6.954609899999999
+                                },
+                                "html_instructions": "Continue onto <b>L\u00fcbecker Str.</b>",
+                                "polyline": {
+                                    "points": "g`~uH}tmi@EFCDCDCDCFAHCHEZu@rEQlA"
+                                },
+                                "start_location": {
+                                    "lat": 50.9493239,
+                                    "lng": 6.956468
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "1.8 km",
+                                    "value": 1820
+                                },
+                                "duration": {
+                                    "text": "6 mins",
+                                    "value": 386
+                                },
+                                "end_location": {
+                                    "lat": 50.9382562,
+                                    "lng": 6.9393588
+                                },
+                                "html_instructions": "Slight <b>left</b> onto <b>Hansaring</b>/<wbr/><b>B9</b><div style=\"font-size:0.9em\">Continue to follow B9</div>",
+                                "maneuver": "turn-slight-left",
+                                "polyline": {
+                                    "points": "qc~uHiimi@D^h@xBr@rCLl@J\\n@dCXfABJXfAV~@V`APn@T~@X`AXz@t@hCd@|A|AfFDLNd@z@lCNb@DRFVN`@Xx@n@lBJXTl@Z`At@rBFRBJDJ@HBL?N@L@R@H?B@B@J@BBJBHFLDFPRr@l@f@f@HFHBdCzBhCfCJPFFBBDBDDDBB@H@F@D?FAFATIDCL?R@XBV@J@PBLBnARHGb@HPBnB\\VDRBXFrEr@RNHBbATl@Jz@N"
+                                },
+                                "start_location": {
+                                    "lat": 50.9498493,
+                                    "lng": 6.954609899999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "40 m",
+                                    "value": 40
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 33
+                                },
+                                "end_location": {
+                                    "lat": 50.93827390000001,
+                                    "lng": 6.939924700000001
+                                },
+                                "html_instructions": "Turn <b>left</b> at <b>Maastrichter Str.</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "c{{uH_jji@@YA[Ay@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9382562,
+                                    "lng": 6.9393588
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "ue~uH{wmi@jDHn@A]v@Yj@M\\qAfID^h@xB`A`ExAvFzAxF~BfIxCxJxA|EdBbFnBvFNn@Dz@DVFTLTvBpBHBdCzBhCfCJPJJJHZHLA\\KRCl@DbAJnARHGt@LtDn@rEr@RNlAXhBZ?u@Ay@"
+                },
+                "summary": "B9",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    },
+    "5": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJvfC1KvUlv0cRPDZsoHBck_0",
+                "types": [
+                    "premise"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "EhxCOCAxNDAsIDUxMDY1IEvDtmxuLCBHZXJtYW55IhsSGQoUChIJARwrARImv0cRWwSUTNqgmYgQjAE",
+                "types": [
+                    "street_address"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.9699395,
+                        "lng": 7.0137855
+                    },
+                    "southwest": {
+                        "lat": 50.9530953,
+                        "lng": 6.976416299999999
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009)",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "4.1 km",
+                            "value": 4099
+                        },
+                        "duration": {
+                            "text": "14 mins",
+                            "value": 865
+                        },
+                        "end_address": "B8 140, 51065 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.9530953,
+                            "lng": 7.0137855
+                        },
+                        "start_address": "Ehrenbergstra\u00dfe 10, 50735 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.9684199,
+                            "lng": 6.977769299999999
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "78 m",
+                                    "value": 78
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 14
+                                },
+                                "end_location": {
+                                    "lat": 50.9677494,
+                                    "lng": 6.9780829
+                                },
+                                "html_instructions": "Head <b>south</b> on <b>Ehrenbergstra\u00dfe</b> toward <b>Naumannstra\u00dfe</b>",
+                                "polyline": {
+                                    "points": "swavHazqi@\\O?A`@O|@[@AB?@@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9684199,
+                                    "lng": 6.977769299999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "63 m",
+                                    "value": 63
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 12
+                                },
+                                "end_location": {
+                                    "lat": 50.96756689999999,
+                                    "lng": 6.9772466
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Naumannstra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "msavH_|qi@@@BB@B?DTnBDd@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9677494,
+                                    "lng": 6.9780829
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 168
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 28
+                                },
+                                "end_location": {
+                                    "lat": 50.9689831,
+                                    "lng": 6.976416299999999
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Goldfu\u00dfstra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "iravHyvqi@mAb@WJOFIDYNuAx@OJYP"
+                                },
+                                "start_location": {
+                                    "lat": 50.96756689999999,
+                                    "lng": 6.9772466
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.8 km",
+                                    "value": 848
+                                },
+                                "duration": {
+                                    "text": "3 mins",
+                                    "value": 179
+                                },
+                                "end_location": {
+                                    "lat": 50.9696296,
+                                    "lng": 6.9881375
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Barbarastra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "c{avHsqqi@Mm@Km@Kk@Gi@Ik@Ks@Gm@OiAG_@AMCOAKAGAG?AgAiEAGAEAIAI?M?C?a@?S?o@@aA?M@i@@MHsBDaB?GDkABq@B_@@[@[@e@@[@]F{AFkAH_B@O@]@]?Q?S?_@?CAGAW?E?KAA?CAK?MC]CS?C?ACW?C?A?EAM@I?M@UDa@@Y?Q?G?Q?A?SA]C]"
+                                },
+                                "start_location": {
+                                    "lat": 50.9689831,
+                                    "lng": 6.976416299999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 280
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 49
+                                },
+                                "end_location": {
+                                    "lat": 50.9672262,
+                                    "lng": 6.989240199999999
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Kuhweg</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "e_bvH{zsi@xBi@@ABGDAfBa@^IZIRGTIRIDCVKBCZOPMRORQ"
+                                },
+                                "start_location": {
+                                    "lat": 50.9696296,
+                                    "lng": 6.9881375
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "9 m",
+                                    "value": 9
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 2
+                                },
+                                "end_location": {
+                                    "lat": 50.967173,
+                                    "lng": 6.989142299999999
+                                },
+                                "html_instructions": "Turn <b>right</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "epavHwati@JR"
+                                },
+                                "start_location": {
+                                    "lat": 50.9672262,
+                                    "lng": 6.989240199999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.9 km",
+                                    "value": 943
+                                },
+                                "duration": {
+                                    "text": "3 mins",
+                                    "value": 175
+                                },
+                                "end_location": {
+                                    "lat": 50.96287950000001,
+                                    "lng": 7.000325999999999
+                                },
+                                "html_instructions": "Turn <b>left</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "yoavHcati@RK@ADAFADCDCFCPKFEVOJIHILMBADIVYZ_@N[FODOJ_@HYDWBMLk@@EFYVmANq@Ns@Ns@Jg@Ns@Lm@Ns@Ns@@C@G?G?E@E@E@EBC?A@A@CJg@@CNs@Jg@@INs@Ja@BQNq@DOXuADOHc@Ns@Lk@@EJi@BIF[FWDUJc@@GDSDQ?E?IBKFIBO@AJi@@GJa@BMDUH]FY@ID[D]Lq@?AJe@BONq@?AJa@Tm@@E"
+                                },
+                                "start_location": {
+                                    "lat": 50.967173,
+                                    "lng": 6.989142299999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 268
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 88
+                                },
+                                "end_location": {
+                                    "lat": 50.96203620000001,
+                                    "lng": 7.0038627
+                                },
+                                "html_instructions": "Continue onto <b>M\u00fclheimer Br\u00fccke</b>/<wbr/><b>B51</b>",
+                                "polyline": {
+                                    "points": "_u`vHagvi@XwAh@eDDQDQF[TwALu@ReAJo@BQ?AJg@@O@KAOAICM"
+                                },
+                                "start_location": {
+                                    "lat": 50.96287950000001,
+                                    "lng": 7.000325999999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "13 m",
+                                    "value": 13
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 3
+                                },
+                                "end_location": {
+                                    "lat": 50.9619233,
+                                    "lng": 7.0039129
+                                },
+                                "html_instructions": "Turn <b>right</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "wo`vHc}vi@VI"
+                                },
+                                "start_location": {
+                                    "lat": 50.96203620000001,
+                                    "lng": 7.0038627
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "19 m",
+                                    "value": 19
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 4
+                                },
+                                "end_location": {
+                                    "lat": 50.9619827,
+                                    "lng": 7.0041517
+                                },
+                                "html_instructions": "Turn <b>left</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "_o`vHm}vi@EGCGA_@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9619233,
+                                    "lng": 7.0039129
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "21 m",
+                                    "value": 21
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 29
+                                },
+                                "end_location": {
+                                    "lat": 50.962111,
+                                    "lng": 7.0043437
+                                },
+                                "html_instructions": "Keep <b>right</b>",
+                                "maneuver": "keep-right",
+                                "polyline": {
+                                    "points": "ko`vH}~vi@AIAEAASS"
+                                },
+                                "start_location": {
+                                    "lat": 50.9619827,
+                                    "lng": 7.0041517
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 105
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 17
+                                },
+                                "end_location": {
+                                    "lat": 50.9612691,
+                                    "lng": 7.0040665
+                                },
+                                "html_instructions": "Turn <b>right</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "ep`vHc`wi@DOBG@E?A@?JBPHDBb@TpAl@"
+                                },
+                                "start_location": {
+                                    "lat": 50.962111,
+                                    "lng": 7.0043437
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "83 m",
+                                    "value": 83
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 15
+                                },
+                                "end_location": {
+                                    "lat": 50.9609971,
+                                    "lng": 7.0051048
+                                },
+                                "html_instructions": "Turn <b>left</b> toward <b>Jan-Wellem-Stra\u00dfe</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "}j`vHm~vi@N{ARiBPG"
+                                },
+                                "start_location": {
+                                    "lat": 50.9612691,
+                                    "lng": 7.0040665
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "20 m",
+                                    "value": 20
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 4
+                                },
+                                "end_location": {
+                                    "lat": 50.9608302,
+                                    "lng": 7.0050141
+                                },
+                                "html_instructions": "Turn <b>right</b> toward <b>Jan-Wellem-Stra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "gi`vH{dwi@FFDBDBL@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9609971,
+                                    "lng": 7.0051048
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.4 km",
+                                    "value": 357
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 60
+                                },
+                                "end_location": {
+                                    "lat": 50.9578523,
+                                    "lng": 7.006784199999999
+                                },
+                                "html_instructions": "Continue onto <b>Jan-Wellem-Stra\u00dfe</b>",
+                                "polyline": {
+                                    "points": "eh`vHidwi@LQBIBABC@Af@_@ZWROFEVONK~@i@nBkAn@UVMVKTITIXIRGLCPANAHAJ@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9608302,
+                                    "lng": 7.0050141
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.5 km",
+                                    "value": 527
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 115
+                                },
+                                "end_location": {
+                                    "lat": 50.9549828,
+                                    "lng": 7.0123539
+                                },
+                                "html_instructions": "Continue onto <b>Sonderburger Str.</b>",
+                                "polyline": {
+                                    "points": "qu_vHkowi@F@HFFDH@F@BAB?BC@ArAaBDK@G@I@G?KrBaG|@kCpAyDb@gABIDM@E@EBG@EBIBIBEBMHWFUBE@EDOJYXq@DSDQ@G@IBY"
+                                },
+                                "start_location": {
+                                    "lat": 50.9578523,
+                                    "lng": 7.006784199999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 159
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 26
+                                },
+                                "end_location": {
+                                    "lat": 50.95432479999999,
+                                    "lng": 7.0137453
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Arnsberger Str.</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "sc_vHerxi@PBLB@?J@L@PAHAFCFEDIDM@O?IBw@@e@FkB?K?M"
+                                },
+                                "start_location": {
+                                    "lat": 50.9549828,
+                                    "lng": 7.0123539
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 138
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 45
+                                },
+                                "end_location": {
+                                    "lat": 50.9530953,
+                                    "lng": 7.0137855
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Frankfurter Str.</b>/<wbr/><b>B8</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "o__vH}zxi@R@P?V@P@X@ZBN@L@J?FAJAJAHCNEHG"
+                                },
+                                "start_location": {
+                                    "lat": 50.95432479999999,
+                                    "lng": 7.0137453
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "swavHazqi@|B}@H@Z|BDd@mAb@g@RiCzAYPMm@WyAe@wD]gCE]mAaFA}@@sC`@sLFyBZeHD}AA_AIgBIkAHoA@eAEqAzBk@HIvD}@fAc@dAq@RQJRTMXKx@e@f@c@\\c@j@{@b@yAXwAxBkKb@sBBYFM^cB|AqHfAiFZyAJk@BUJYZuAZ{ALcAl@}C`@oAZ}A|@eFtAoI?[EWVIEGEg@COUUJ]L@lCpAN{ARiBPGLJRDXa@dAy@bAq@nDuBfAc@|Ai@`@K`@CT?PHPFJ?FCtAcBJe@?KrBaGnCeIn@eB`@sARq@d@kAJe@BQBYPBNBXBZCNIJW@YLuE?MR@h@@vAHl@ATEXM"
+                },
+                "summary": "Sonderburger Str.",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    },
+    "6": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJRTS5Hkkkv0cRJQWF3nufUL0",
+                "types": [
+                    "street_address"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJ0xjCJ4qGcUER4y74NhbPpiE",
+                "types": [
+                    "establishment",
+                    "point_of_interest"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.9298953,
+                        "lng": 6.9616703
+                    },
+                    "southwest": {
+                        "lat": 50.9226967,
+                        "lng": 6.949735
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009)",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "1.5 km",
+                            "value": 1511
+                        },
+                        "duration": {
+                            "text": "6 mins",
+                            "value": 367
+                        },
+                        "end_address": "Waisenhausgasse 3, 50676 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.9296348,
+                            "lng": 6.9515214
+                        },
+                        "start_address": "Annostra\u00dfe 2A, 50678 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.9226967,
+                            "lng": 6.9616703
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "66 m",
+                                    "value": 66
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 12
+                                },
+                                "end_location": {
+                                    "lat": 50.9232917,
+                                    "lng": 6.9616051
+                                },
+                                "html_instructions": "Head <b>north</b> on <b>Annostra\u00dfe</b> toward <b>Severinsm\u00fchlengasse</b>",
+                                "polyline": {
+                                    "points": "{yxuHmuni@uBJ"
+                                },
+                                "start_location": {
+                                    "lat": 50.9226967,
+                                    "lng": 6.9616703
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "86 m",
+                                    "value": 86
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 21
+                                },
+                                "end_location": {
+                                    "lat": 50.9235063,
+                                    "lng": 6.9604368
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Severinsm\u00fchlengasse</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "q}xuHauni@?H?Hk@tE"
+                                },
+                                "start_location": {
+                                    "lat": 50.9232917,
+                                    "lng": 6.9616051
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "18 m",
+                                    "value": 18
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 4
+                                },
+                                "end_location": {
+                                    "lat": 50.9233803,
+                                    "lng": 6.9602695
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Im Ferkulum</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "}~xuHwmni@FFFHHN"
+                                },
+                                "start_location": {
+                                    "lat": 50.9235063,
+                                    "lng": 6.9604368
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "93 m",
+                                    "value": 93
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 19
+                                },
+                                "end_location": {
+                                    "lat": 50.9231421,
+                                    "lng": 6.959004
+                                },
+                                "html_instructions": "Slight <b>right</b> onto <b>Severinskirchpl.</b>",
+                                "maneuver": "turn-slight-right",
+                                "polyline": {
+                                    "points": "c~xuHulni@XpCTjB"
+                                },
+                                "start_location": {
+                                    "lat": 50.9233803,
+                                    "lng": 6.9602695
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.4 km",
+                                    "value": 380
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 63
+                                },
+                                "end_location": {
+                                    "lat": 50.9265055,
+                                    "lng": 6.958063
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Severinstra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "s|xuHwdni@]P[J_@DwDf@mF`AOBqCh@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9231421,
+                                    "lng": 6.959004
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 235
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 89
+                                },
+                                "end_location": {
+                                    "lat": 50.9266126,
+                                    "lng": 6.954774899999999
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Josephstra\u00dfe</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "uqyuH{~mi@HL@H?H?L?PCpBMhLAPAHAFGN"
+                                },
+                                "start_location": {
+                                    "lat": 50.9265055,
+                                    "lng": 6.958063
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 168
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 78
+                                },
+                                "end_location": {
+                                    "lat": 50.9277352,
+                                    "lng": 6.953163
+                                },
+                                "html_instructions": "Continue onto <b>Paulstra\u00dfe</b>",
+                                "polyline": {
+                                    "points": "iryuHijmi@KNOVeExG"
+                                },
+                                "start_location": {
+                                    "lat": 50.9266126,
+                                    "lng": 6.954774899999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 246
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 44
+                                },
+                                "end_location": {
+                                    "lat": 50.9287686,
+                                    "lng": 6.950145399999999
+                                },
+                                "html_instructions": "Continue onto <b>Martinsfeld</b>",
+                                "polyline": {
+                                    "points": "kyyuHg`mi@y@jCEJIPCJK\\kA`Fm@hC?BAB?B@B?BDD"
+                                },
+                                "start_location": {
+                                    "lat": 50.9277352,
+                                    "lng": 6.953163
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "36 m",
+                                    "value": 36
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 7
+                                },
+                                "end_location": {
+                                    "lat": 50.9289598,
+                                    "lng": 6.949735
+                                },
+                                "html_instructions": "Turn <b>right</b> to stay on <b>Martinsfeld</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "y_zuHmmli@e@pA"
+                                },
+                                "start_location": {
+                                    "lat": 50.9287686,
+                                    "lng": 6.950145399999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 140
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 24
+                                },
+                                "end_location": {
+                                    "lat": 50.9298953,
+                                    "lng": 6.9510627
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Waisenhausgasse</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "_azuH{jli@w@mAi@y@yA_C"
+                                },
+                                "start_location": {
+                                    "lat": 50.9289598,
+                                    "lng": 6.949735
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "43 m",
+                                    "value": 43
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 6
+                                },
+                                "end_location": {
+                                    "lat": 50.9296348,
+                                    "lng": 6.9515214
+                                },
+                                "html_instructions": "Turn <b>right</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "{fzuHcsli@t@{A"
+                                },
+                                "start_location": {
+                                    "lat": 50.9298953,
+                                    "lng": 6.9510627
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "{yxuHmuni@uBJ?Hk@~ENPHNXpCTjB]P{@PwDf@mF`AaDl@JV?VS~PCPS^uEpH_AvCM\\wA~Fo@tC@FDDe@pAaBgCyA_Ct@{A"
+                },
+                "summary": "Severinstra\u00dfe",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    },
+    "7": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJVSfaRpsvv0cRCLu1_cmEqek",
+                "types": [
+                    "street_address"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJ7c0B5X8lv0cR_Tph1RyMPSI",
+                "types": [
+                    "establishment",
+                    "point_of_interest",
+                    "transit_station"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.9843328,
+                        "lng": 6.951389300000001
+                    },
+                    "southwest": {
+                        "lat": 50.9723865,
+                        "lng": 6.9473334
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009)",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "1.4 km",
+                            "value": 1371
+                        },
+                        "duration": {
+                            "text": "5 mins",
+                            "value": 299
+                        },
+                        "end_address": "Neusser Stra\u00dfe G\u00fcrtel, 50733 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.9723865,
+                            "lng": 6.951389300000001
+                        },
+                        "start_address": "B9 652, 50737 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.9843328,
+                            "lng": 6.9473334
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "33 m",
+                                    "value": 33
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 30
+                                },
+                                "end_location": {
+                                    "lat": 50.9840587,
+                                    "lng": 6.947518499999999
+                                },
+                                "html_instructions": "Head <b>southeast</b> on <b>Neusser Str.</b>/<wbr/><b>B9</b> toward <b>Kapuzinerstra\u00dfe</b>/<wbr/><b>Scheibenstra\u00dfe</b><div style=\"font-size:0.9em\">Walk your bicycle</div>",
+                                "polyline": {
+                                    "points": "a{dvHy{ki@t@e@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9843328,
+                                    "lng": 6.9473334
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "9 m",
+                                    "value": 9
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 24
+                                },
+                                "end_location": {
+                                    "lat": 50.9840198,
+                                    "lng": 6.9474136
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Kapuzinerstra\u00dfe</b>/<wbr/><b>Scheibenstra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "kydvH_}ki@BHBJ"
+                                },
+                                "start_location": {
+                                    "lat": 50.9840587,
+                                    "lng": 6.947518499999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "1.3 km",
+                                    "value": 1329
+                                },
+                                "duration": {
+                                    "text": "4 mins",
+                                    "value": 245
+                                },
+                                "end_location": {
+                                    "lat": 50.9723865,
+                                    "lng": 6.951389300000001
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Neusser Str.</b>/<wbr/><b>B9</b><div style=\"font-size:0.9em\">Destination will be on the left</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "cydvHi|ki@NKb@S@ALEVGj@EVA~G[t@Iv@ArB[z@O`@IrDs@lCe@nEyA`@OhFiBt@a@PSzBs@hAc@zA_@b@M`@O`@MRIp@SfA]j@Sp@Qf@SPG"
+                                },
+                                "start_location": {
+                                    "lat": 50.9840198,
+                                    "lng": 6.9474136
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "a{dvHy{ki@t@e@BHBJNKd@Ud@MbAG~G[t@Iv@ArB[|AY`IyApFiBhFiBt@a@PSzBs@hAc@zA_@dA]nDiA|Ae@x@["
+                },
+                "summary": "Neusser Str./B9",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    },
+    "8": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJZaiomaIlv0cRgfacb4Bgvnc",
+                "types": [
+                    "street_address"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJH34j9oclv0cRmdT_nnEi84g",
+                "types": [
+                    "street_address"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.9717922,
+                        "lng": 6.9654218
+                    },
+                    "southwest": {
+                        "lat": 50.9508338,
+                        "lng": 6.9568048
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009)",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "3.0 km",
+                            "value": 3002
+                        },
+                        "duration": {
+                            "text": "10 mins",
+                            "value": 617
+                        },
+                        "end_address": "Gelsenkirchener Str. 33, 50735 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.9717922,
+                            "lng": 6.9643554
+                        },
+                        "start_address": "Ebertpl. 21-23, 50668 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.9508338,
+                            "lng": 6.9584598
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "61 m",
+                                    "value": 61
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 11
+                                },
+                                "end_location": {
+                                    "lat": 50.95083750000001,
+                                    "lng": 6.957596499999999
+                                },
+                                "html_instructions": "Head <b>west</b> on <b>Ebertpl.</b>",
+                                "polyline": {
+                                    "points": "ui~uHkani@?H?XAfA?~@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9508338,
+                                    "lng": 6.9584598
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "11 m",
+                                    "value": 11
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 2
+                                },
+                                "end_location": {
+                                    "lat": 50.9509372,
+                                    "lng": 6.9575724
+                                },
+                                "html_instructions": "Turn <b>right</b> to stay on <b>Ebertpl.</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "wi~uH_|mi@SD"
+                                },
+                                "start_location": {
+                                    "lat": 50.95083750000001,
+                                    "lng": 6.957596499999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "46 m",
+                                    "value": 46
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 41
+                                },
+                                "end_location": {
+                                    "lat": 50.9511311,
+                                    "lng": 6.9570327
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Ebertpl.</b>/<wbr/><b>B9</b><div style=\"font-size:0.9em\">Continue to follow B9</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "kj~uHy{mi@@XCTIRIPOT"
+                                },
+                                "start_location": {
+                                    "lat": 50.9509372,
+                                    "lng": 6.9575724
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.5 km",
+                                    "value": 460
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 88
+                                },
+                                "end_location": {
+                                    "lat": 50.955214,
+                                    "lng": 6.9568048
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Neusser Str.</b>/<wbr/><b>B9</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "qk~uHmxmi@WC}AI[CmE[{DQK?I?I?YH[J]Lk@PsBv@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9511311,
+                                    "lng": 6.9570327
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "81 m",
+                                    "value": 81
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 21
+                                },
+                                "end_location": {
+                                    "lat": 50.9556785,
+                                    "lng": 6.957654799999999
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Neusser Wall</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "ae_vH_wmi@m@oBCMEKCECEEEACECGCGA"
+                                },
+                                "start_location": {
+                                    "lat": 50.955214,
+                                    "lng": 6.9568048
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.5 km",
+                                    "value": 475
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 144
+                                },
+                                "end_location": {
+                                    "lat": 50.9599375,
+                                    "lng": 6.958064599999999
+                                },
+                                "html_instructions": "<b>Neusser Wall</b> turns slightly <b>left</b> and becomes <b>Niehler Str.</b>",
+                                "polyline": {
+                                    "points": "_h_vHi|mi@M@qABsAE_@AmAIa@Ag@I_@Ca@GiAEgDSsDS"
+                                },
+                                "start_location": {
+                                    "lat": 50.9556785,
+                                    "lng": 6.957654799999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 248
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 36
+                                },
+                                "end_location": {
+                                    "lat": 50.9596023,
+                                    "lng": 6.961451299999999
+                                },
+                                "html_instructions": "Turn <b>right</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "sb`vH{~mi@D_B?G@]?o@BaA?w@?S@c@?c@ASAI?I@EBKFSFSRc@@CDK@CBC?_A@{@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9599375,
+                                    "lng": 6.958064599999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 313
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 48
+                                },
+                                "end_location": {
+                                    "lat": 50.9623451,
+                                    "lng": 6.961709399999999
+                                },
+                                "html_instructions": "Turn <b>left</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "o``vHatni@_AEoACkAEqAC_CJM?K?mAGMUAM"
+                                },
+                                "start_location": {
+                                    "lat": 50.9596023,
+                                    "lng": 6.961451299999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "53 m",
+                                    "value": 53
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 10
+                                },
+                                "end_location": {
+                                    "lat": 50.96271609999999,
+                                    "lng": 6.9621803
+                                },
+                                "html_instructions": "Continue onto <b>Franz-Clouth-Stra\u00dfe</b>",
+                                "polyline": {
+                                    "points": "uq`vHuuni@aAwAAACCA?"
+                                },
+                                "start_location": {
+                                    "lat": 50.9623451,
+                                    "lng": 6.961709399999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.3 km",
+                                    "value": 257
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 38
+                                },
+                                "end_location": {
+                                    "lat": 50.9635538,
+                                    "lng": 6.9653623
+                                },
+                                "html_instructions": "Slight <b>right</b>",
+                                "maneuver": "turn-slight-right",
+                                "polyline": {
+                                    "points": "_t`vHsxni@Ou@AICYE]AM?K?S?_@A_@AE?EAEAEAEGECI?CAC?I@E@UB[@E?K?A?I?M?KAMAE?GAE?AEGEEW_@Yi@M]S_@Sk@"
+                                },
+                                "start_location": {
+                                    "lat": 50.96271609999999,
+                                    "lng": 6.9621803
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.8 km",
+                                    "value": 793
+                                },
+                                "duration": {
+                                    "text": "2 mins",
+                                    "value": 140
+                                },
+                                "end_location": {
+                                    "lat": 50.9704942,
+                                    "lng": 6.9654218
+                                },
+                                "html_instructions": "Turn <b>left</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "ey`vHoloi@q@\\SJYLQBq@F_AHE?aAJc@DSBG@I@GBEBEBEDIJIHEBCBE@C?G?I?WGsC_@C?C?A@I@IFA@C?eEQc@A_GUE?E?GAICKAIAOAc@Ai@COAMIGEOOAAC?AAA?Ui@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9635538,
+                                    "lng": 6.9653623
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "76 m",
+                                    "value": 76
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 14
+                                },
+                                "end_location": {
+                                    "lat": 50.97114329999999,
+                                    "lng": 6.9652031
+                                },
+                                "html_instructions": "Turn <b>left</b> toward <b>Duisburger Str.</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "qdbvH{loi@o@h@A@Q?s@AI@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9704942,
+                                    "lng": 6.9654218
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "64 m",
+                                    "value": 64
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 11
+                                },
+                                "end_location": {
+                                    "lat": 50.9717134,
+                                    "lng": 6.965257299999999
+                                },
+                                "html_instructions": "Continue onto <b>Duisburger Str.</b>",
+                                "polyline": {
+                                    "points": "shbvHokoi@gAGi@C"
+                                },
+                                "start_location": {
+                                    "lat": 50.97114329999999,
+                                    "lng": 6.9652031
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "64 m",
+                                    "value": 64
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 13
+                                },
+                                "end_location": {
+                                    "lat": 50.9717922,
+                                    "lng": 6.9643554
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Gelsenkirchener Str.</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "elbvH{koi@KtCC\\"
+                                },
+                                "start_location": {
+                                    "lat": 50.9717134,
+                                    "lng": 6.965257299999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "ui~uHkani@AjDSD@XMh@Yf@WCyBMmE[{DQU?c@HyEbB{@oCQSOE_BDsBGoBKgAMa@GiAE{Ig@DgBDgE?oBASDQd@oAFOBC?_A@{@_AE{CIqAC_CJY?mAGMUAMaAwAEEQu@MoAA_BEWMY@i@Do@Aq@CU}@wAa@}@Sk@q@\\m@XcAJkDZm@J[XYRK?a@GwC_@E@SHE@oNi@c@GgBIOAMIWUICUi@o@h@S@}@?qBKOrD"
+                },
+                "summary": "Neusser Str./B9",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    },
+    "9": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJg8KLBn0vv0cRt1HUTdujV3E",
+                "types": [
+                    "street_address"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJd7LZ7YQvv0cR1gAmmN6k5bo",
+                "types": [
+                    "street_address"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.9818635,
+                        "lng": 6.962831599999999
+                    },
+                    "southwest": {
+                        "lat": 50.9741592,
+                        "lng": 6.9454558
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009)",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "2.0 km",
+                            "value": 1977
+                        },
+                        "duration": {
+                            "text": "8 mins",
+                            "value": 485
+                        },
+                        "end_address": "Floriansgasse 53, 50737 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.9818635,
+                            "lng": 6.9462369
+                        },
+                        "start_address": "Friedrich-Karl-Stra\u00dfe 135, 50735 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.9745844,
+                            "lng": 6.962831599999999
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "37 m",
+                                    "value": 37
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 7
+                                },
+                                "end_location": {
+                                    "lat": 50.9742496,
+                                    "lng": 6.9628199
+                                },
+                                "html_instructions": "Head <b>south</b> toward <b>Friedrich-Karl-Stra\u00dfe</b><div style=\"font-size:0.9em\">Restricted usage road</div>",
+                                "polyline": {
+                                    "points": "c~bvHu|ni@`A@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9745844,
+                                    "lng": 6.962831599999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "1.2 km",
+                                    "value": 1172
+                                },
+                                "duration": {
+                                    "text": "5 mins",
+                                    "value": 325
+                                },
+                                "end_location": {
+                                    "lat": 50.9758424,
+                                    "lng": 6.946679199999999
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Friedrich-Karl-Stra\u00dfe</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "a|bvHs|ni@@zB?pC?x@@pB?hD@l@BnC@lA@dABtC?x@?\\?rA?x@?j@Af@Ad@Ab@Cf@C^Cl@El@Ej@Gl@Gf@Gh@Ij@Ih@Id@UlA_@~BQbAM|@Gb@GZKx@EXCLAL?R?j@B~AD`CFfAy@xCQf@Oh@IZIZGTG`@ELIj@"
+                                },
+                                "start_location": {
+                                    "lat": 50.9742496,
+                                    "lng": 6.9628199
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.4 km",
+                                    "value": 442
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 88
+                                },
+                                "end_location": {
+                                    "lat": 50.979703,
+                                    "lng": 6.9456212
+                                },
+                                "html_instructions": "Turn <b>right</b> onto <b>Merheimer Str.</b>",
+                                "maneuver": "turn-right",
+                                "polyline": {
+                                    "points": "_fcvHwwki@Y?UBqA^yDjAGB}DzAq@Ta@L]A[AWCUCMCKAQEYG"
+                                },
+                                "start_location": {
+                                    "lat": 50.9758424,
+                                    "lng": 6.946679199999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 204
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 44
+                                },
+                                "end_location": {
+                                    "lat": 50.9810153,
+                                    "lng": 6.9473201
+                                },
+                                "html_instructions": "At the roundabout, take the <b>1st</b> exit onto <b>Schmiedegasse</b>",
+                                "maneuver": "roundabout-right",
+                                "polyline": {
+                                    "points": "c~cvHcqki@?A?AA??A?A?AA??A?AA??AA??AA?AAA?A?A??@Sc@i@cAWc@CCCGGGCEECa@BG?K?MAIICCCECIAEi@uB"
+                                },
+                                "start_location": {
+                                    "lat": 50.979703,
+                                    "lng": 6.9456212
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 122
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 21
+                                },
+                                "end_location": {
+                                    "lat": 50.9818635,
+                                    "lng": 6.9462369
+                                },
+                                "html_instructions": "Turn <b>left</b> onto <b>Vulkanstra\u00dfe</b>",
+                                "maneuver": "turn-left",
+                                "polyline": {
+                                    "points": "kfdvHw{ki@y@p@IHwAhCKP"
+                                },
+                                "start_location": {
+                                    "lat": 50.9810153,
+                                    "lng": 6.9473201
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "c~bvHu|ni@`A@@zB?jE@zGD|DFbJ?vEIxCSfDa@jDiA|GeAbHA`@BjCLhEkA`Ek@vBMn@Ij@Y?gBb@aEnAoFpBa@L]As@Ec@Gw@OAECGEEA?Wa@iAsBKMECa@BS?MAIIGIEOi@uBy@p@aBrCKP"
+                },
+                "summary": "Friedrich-Karl-Stra\u00dfe",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    },
+    "10": {
+        "geocoded_waypoints": [
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJ0Sdyr4Qvv0cR-P7fW--6_UM",
+                "types": [
+                    "street_address"
+                ]
+            },
+            {
+                "geocoder_status": "OK",
+                "place_id": "ChIJVSWuf6Elv0cRYIdW9nyWBeQ",
+                "types": [
+                    "street_address"
+                ]
+            }
+        ],
+        "routes": [
+            {
+                "bounds": {
+                    "northeast": {
+                        "lat": 50.9840587,
+                        "lng": 6.957346200000001
+                    },
+                    "southwest": {
+                        "lat": 50.9483977,
+                        "lng": 6.9474136
+                    }
+                },
+                "copyrights": "Map data \u00a92019 GeoBasis-DE/BKG (\u00a92009)",
+                "legs": [
+                    {
+                        "distance": {
+                            "text": "4.6 km",
+                            "value": 4562
+                        },
+                        "duration": {
+                            "text": "15 mins",
+                            "value": 888
+                        },
+                        "end_address": "Hansaring 74, 50670 K\u00f6ln, Germany",
+                        "end_location": {
+                            "lat": 50.9490333,
+                            "lng": 6.9528724
+                        },
+                        "start_address": "B9 614, 50737 K\u00f6ln, Germany",
+                        "start_location": {
+                            "lat": 50.982915,
+                            "lng": 6.947847400000001
+                        },
+                        "steps": [
+                            {
+                                "distance": {
+                                    "text": "0.1 km",
+                                    "value": 130
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 23
+                                },
+                                "end_location": {
+                                    "lat": 50.9840587,
+                                    "lng": 6.947518499999999
+                                },
+                                "html_instructions": "Head <b>north</b> on <b>Neusser Str.</b>/<wbr/><b>B9</b> toward <b>Fehrbellinstra\u00dfe</b>",
+                                "polyline": {
+                                    "points": "grdvHa_li@eBHWDSDMDu@\\MF"
+                                },
+                                "start_location": {
+                                    "lat": 50.982915,
+                                    "lng": 6.947847400000001
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "4.3 km",
+                                    "value": 4253
+                                },
+                                "duration": {
+                                    "text": "13 mins",
+                                    "value": 801
+                                },
+                                "end_location": {
+                                    "lat": 50.9486968,
+                                    "lng": 6.951267899999999
+                                },
+                                "html_instructions": "Make a <b>U-turn</b> at <b>Kapuzinerstra\u00dfe</b>/<wbr/><b>Scheibenstra\u00dfe</b><div style=\"font-size:0.9em\">Continue to follow B9</div>",
+                                "maneuver": "uturn-left",
+                                "polyline": {
+                                    "points": "kydvH_}ki@BHBJNKb@S@ALEVGj@EVA~G[t@Iv@ArB[z@O`@IrDs@lCe@nEyA`@OhFiBt@a@PSzBs@hAc@zA_@b@M`@O`@MRIp@SfA]j@Sp@Qf@St@WNEt@Y^M`A[NGbA]LEhDgAp@SNEPERGRGj@QRG\\IHCTATEr@Mh@IpAS`AQj@Kf@Gl@Ih@E^Cr@IPEd@G\\E`ACR?HELExAOb@C\\CJ?RCFAHALCxAWt@OTCf@EPAnAWrC_@d@INCVEXAb@Ch@AN?j@@jA?PATBj@C\\Gx@SrAc@TInAe@HEXKZM@A^OLENG^O@ANIJEDANGPIFALELERG^MDCLEnBs@b@OXMVMf@SlAg@XMp@YNGpAg@TIPEHCNC^YzDPlEZZB|AHVBTJJDPHXHP\\HNJRDLBFBFFNDRL\\Pr@d@hBf@|BD^h@xBr@rCLl@J\\n@dCXfABJXfA"
+                                },
+                                "start_location": {
+                                    "lat": 50.9840587,
+                                    "lng": 6.947518499999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            },
+                            {
+                                "distance": {
+                                    "text": "0.2 km",
+                                    "value": 179
+                                },
+                                "duration": {
+                                    "text": "1 min",
+                                    "value": 64
+                                },
+                                "end_location": {
+                                    "lat": 50.9490333,
+                                    "lng": 6.9528724
+                                },
+                                "html_instructions": "Make a <b>U-turn</b> at <b>Ritterstra\u00dfe</b>",
+                                "maneuver": "uturn-left",
+                                "polyline": {
+                                    "points": "k|}uHmtli@FFBBDDBBBBB@BBB@B@@?D?D?BCMc@m@_CU_Aa@_BI["
+                                },
+                                "start_location": {
+                                    "lat": 50.9486968,
+                                    "lng": 6.951267899999999
+                                },
+                                "travel_mode": "BICYCLING"
+                            }
+                        ],
+                        "traffic_speed_entry": [],
+                        "via_waypoint": []
+                    }
+                ],
+                "overview_polyline": {
+                    "points": "grdvHa_li@}BNa@JcAd@FTbAg@VGj@EvH]t@Iv@AnDk@tE}@lCe@nEyAjGyBt@a@PSzBs@hAc@~Bm@hC{@rBq@p@Qf@SdA]tAg@bDgA|FgBfBi@f@Mj@GpF}@jDc@jC[~AI\\EfBU`AGp@GrDo@x@GnAWrC_@t@Mp@GlAEz@@|AATBj@CvA[hBm@nCeA|BaA~Bw@fDmAfDwAlDwAf@OXG^YzDPhF^|AHVBTJ\\NXHP\\Tb@HT^hAv@|Cf@|BD^|AlGXjAfB`HTTNJP@BCMc@cA_Ek@{B"
+                },
+                "summary": "B9",
+                "warnings": [
+                    "Bicycling directions are in beta. Use caution \u2013 This route may contain streets that aren't suited for bicycling."
+                ],
+                "waypoint_order": []
+            }
+        ],
+        "status": "OK"
+    }
+}

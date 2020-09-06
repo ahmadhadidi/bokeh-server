@@ -1,0 +1,6 @@
+bokeh==2.2.1
+pandas==0.24.1
+pyarrow==0.16.0
+pyproj==2.4.2.post1
+scikit-learn==0.20.4
+numpy==1.18.1
